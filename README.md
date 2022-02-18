@@ -2,6 +2,9 @@
 
 This project is a URL shortener. The client version will be available below.
 
+Client: 
+https://github.com/rodriguesabner/client-shorten
+
 ## Run Locally
 
 Clone the project
